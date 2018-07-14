@@ -1,0 +1,8 @@
+*.csv
+*.gz
+*checkpoints*
+*.dat
+*.npy
+*.npz
+*.pyc
+*.DS_Store
