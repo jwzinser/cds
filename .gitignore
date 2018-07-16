@@ -6,3 +6,4 @@
 *.npz
 *.pyc
 *.DS_Store
+*.pickle
